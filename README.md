@@ -7,6 +7,11 @@
 
 ![grafik](https://github.com/edwardtanguay/template-node-express-ejs-website-typescript/assets/446574/fe91f858-984e-4713-a776-85c775dccde0)
 
+## This is a template site
+
+- If you want to build this template step-by-step, see:
+  - **HOWTO: [Server-side Website: Create server-side Node/Express site with EJS and host at Render](https://tanguay-eu.vercel.app/howtos/814)**
+
 ## FEATURES
 
 - Node/Express
